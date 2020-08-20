@@ -1,11 +1,13 @@
-# RON-404
-RON-404 es el repositorio general del proyecto UNIWHEELS. Este proyecto está divido en dos partes:
-* ![UniWheels-Backend](https://github.com/Ron-404/UniWheelsBackend) 
-* ![UniWheels-Frontend](https://github.com/Ron-404/UniWheels-Frontend) 
-
-## Nuestra Proyecto
+# UniWheels
+Es una aplicación web que facilita el trasnporte de los universitarios de Bogotá.
 
 ![](https://github.com/andresro30/RON-404/blob/master/images/Logo%20fondo%20blanco.png)
+
+
+## Nuestro Proyecto
+
+* ![UniWheels-Backend](https://github.com/Ron-404/UniWheelsBackend) 
+* ![UniWheels-Frontend](https://github.com/Ron-404/UniWheels-Frontend) 
 
 
 ## Descripción del Problema
