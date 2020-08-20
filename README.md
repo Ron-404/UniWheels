@@ -16,6 +16,11 @@ La movilidad en la ciudad es una situación muy agoviante para toda la comunidad
 
 Nosotros como grupo de trabajo identificamos esta problemática y decidimos emprender una idea de construir una aplicación que le dará la posibilidad a cualquier miembro de alguna comunidad universitaria de Bogotá, solicitar un servicio de transporte en un ambiente seguro, cómodo y confiable. En donde, el conductor que le brindará el servicio, será otro miembro de alguna comunidad universitaria que se moviliza en su carro particular.
 
+## Nicho de Mercado
+
+## Principales Competidores
+
+## Valor Agregado 
 
 ## Resumen
 
