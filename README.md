@@ -3,6 +3,11 @@ RON-404 es el repositorio general del proyecto UNIWHEELS. Este proyecto está di
 * ![UniWheels-Backend](https://github.com/Ron-404/UniWheelsBackend) 
 * ![UniWheels-Frontend](https://github.com/Ron-404/UniWheels-Frontend) 
 
+## Nuestra Proyecto
+
+![](https://github.com/andresro30/RON-404/blob/master/images/Logo%20fondo%20blanco.png)
+
+
 ## Descripción del Problema
 
 La movilidad en la ciudad es una situación muy agoviante para toda la comunidad, gran parte de los universitarios de la ciudad se transportan a sus universidades usando los medios de trasnportes públicos existentes. Estos son inseguros, incomodos y no generan un nivel de satisfacción alto con sus usuarios. Por lo cual, muchos estudiantes deciden llegar a la universidad en un automovil particular. Varios de ellos, prestan el servicio de transporte a otros compañeros que viven cerca a ellos o pasan por un ruta similar a la que ellos usualmente cogen en su recorrido. Este servicio es prestado a través de grupos de WhatsApp de estudiantes llamados "Wheels", pero por su poca privacidad de información personal y falta de comodidad a la hora de solicitar el servicio, muchos estudiantes no deciden tomarlo.
