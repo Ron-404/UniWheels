@@ -1,5 +1,5 @@
 # UniWheels
-Es una aplicación web que facilita el trasnporte de los universitarios de Bogotá.
+Es una aplicación web que facilita el tranSporte de la comunidad de Educación Superior de Bogotá.
 
 ![](https://github.com/andresro30/RON-404/blob/master/images/Logo%20fondo%20blanco.png)
 
