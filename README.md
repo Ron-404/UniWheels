@@ -2,7 +2,7 @@
 Es una aplicación web que facilita el transporte de la comunidad de Educación Superior de Bogotá.
 
 <p align="center">
-    <img  src="images/Logo-letra-sin-fondo.PNG">
+    <img  src="images/Logo-letra-sin-fondo.png">
 </p>
 
 
@@ -21,7 +21,7 @@ Nosotros como grupo de trabajo identificamos esta problemática y decidimos empr
 # Bussines Model Canvas
 
 <p align="center">
-    <img  src="images/Business-Model-Canvas-uniwheels.PNG">
+    <img  src="images/Business-Model-Canvas-uniwheels.png">
 </p>
 
 
